@@ -1,0 +1,25 @@
+﻿Build started 2013/6/7 上午 12:22:50.
+     1>Project "C:\Users\user\Documents\Visual Studio 2010\Projects\final\final\final.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\final.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         final.vcxproj -> C:\Users\user\Documents\Visual Studio 2010\Projects\final\Debug\final.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\final.unsuccessfulbuild".
+         Touching "Debug\final.lastbuildstate".
+     1>Done Building Project "C:\Users\user\Documents\Visual Studio 2010\Projects\final\final\final.vcxproj" (build target(s)).
+
+建置成功。
+
+Time Elapsed 00:00:00.71
